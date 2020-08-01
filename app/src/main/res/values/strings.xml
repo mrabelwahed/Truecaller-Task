@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">TrueCaller Android Assignment</string>
-    <string name="fetch_data">Fetch Data</string>
+    <string name="app_name">TrueCaller Task</string>
+    <string name="fetch_data">Get Data</string>
     <string name="EveryTenthCharacter">Every 10th Character</string>
     <string name="WordCounter">Word Counter</string>
     <string name="TenthCharacter">10th Character</string>
