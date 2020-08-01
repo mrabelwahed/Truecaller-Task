@@ -1,9 +1,13 @@
 # TrueCallerAndroidAssignment
 
--- I used MVVM Design as architecture pattern
--- I Used Coroutines for handling Background work 
--- I used some of Android Architecture components
--- I used Jsoup Library for webite scrapping
+<ul>
+  <li>I used MVVM Design as architecture pattern </li>
+  <li>I Used Coroutines for handling Background work </li>
+  <li>I used some of Android Architecture components</li>
+  <li>I used Jsoup Library for website scrapping</li>
+</ul>
+
+
 
 
 
